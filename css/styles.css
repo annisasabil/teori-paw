@@ -1,0 +1,100 @@
+.navbar-custom{
+    background-color: #456593;
+}
+
+.search{
+    background-color: #C8DEF4;
+}
+
+.navbar-custom .navbar-nav .nav-link {
+    color: white;
+}
+
+.banner{
+    height: 80vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/baner.jpg');
+    background-size: cover; 
+    background-position: center;
+}
+
+.highlighted-kategori{
+    height: 250px;
+}
+
+.kategori-peralatan-dapur{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/dapur.jpg');
+    background-size: cover; 
+    background-position: center;
+}
+
+.kategori-peralatan-kamar-mandi{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/kamar-mandi.jpg');
+    background-size: cover; 
+    background-position: center;
+}
+
+.kategori-peralatan-elektronik{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/elektronik.jpg');
+    background-size: cover; 
+    background-position: center;
+}
+
+.kategori-peralatan-perawatan{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/perawatan.jpg');
+    background-size: cover; 
+    background-position: center;
+}
+
+.no-decoration{
+    text-decoration: none;
+    color: white;
+}
+
+.no-decoration:hover{
+    color: #ACB1B2;
+}
+
+.text-harga{
+    font-size: 15px;
+    color: #456593;
+}
+
+.image-box{
+    height: 250px;
+}
+
+.image-box img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.content-subscribe{
+    background-color: rgba(15, 15, 16, 0.7)
+}
+
+.content-subscribe a{
+    color: white;
+}
+
+.text-title{
+    font-size: 20px;
+}
+
+.banner-produk{
+    height: 40vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../image/baner.jpg');
+    background-position: 50% 50%;
+}
+
+.list-group a{
+    text-decoration: none;
+}
+
+.produk-terkait-image{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
